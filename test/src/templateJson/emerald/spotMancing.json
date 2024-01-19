@@ -1,0 +1,20 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Spot 1",
+        "color": 5793266,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1178890122515714089/1190398121553960960/image.png?ex=65b41ca4&is=65a1a7a4&hm=118d4c3670e9a2db0268058e995b983eaec763c4e094524a7a3d11210703b2d0&"
+        }
+      },
+      {
+        "title": "Spot 2",
+        "color": 5793266,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1178890122515714089/1190399298446303283/image.png?ex=65b41dbd&is=65a1a8bd&hm=2f4783a18ac86fc8a2bf5c05e34008f05d41c779da912b1aecdb9a62e8c3f7db&"
+        }
+      }
+    ],
+    "attachments": []
+  } 

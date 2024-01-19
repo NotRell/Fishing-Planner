@@ -1,0 +1,49 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "color": 5793266,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1188066730745012264/1189937199416889465/standard.gif?ex=65b26f60&is=659ffa60&hm=6d2ddab6203e29b91450c6af968d3a86d11ff7f09c1814260defeaab8964590d&"
+        }
+      },
+      {
+        "title": "EMERALD LAKE",
+        "color": 5793266,
+        "image": {
+          "url": "https://i.postimg.cc/7YPtkd76/emerald.webp"
+        }
+      },
+      {
+        "color": 5793266,
+        "fields": [
+          {
+            "name": "Basic Fishing License",
+            "value": "1 day = 400 <:cash:1190172223173034046>\n3 day = 1140 <:cash:1190172223173034046>\n7 day = 31500 <:cash:1190172223173034046>\n30 day =  2520 <:cash:1190172223173034046>\nunlimited = 35 <:baitcoin:1190176226258731058>",
+            "inline": true
+          },
+          {
+            "name": "Advanced Fishing License",
+            "value": "1 day = 900 <:cash:1190172223173034046>\n3 day = 2565 <:cash:1190172223173034046>\n7 day = 5670 <:cash:1190172223173034046>\n30 day = 21600 <:cash:1190172223173034046>\nunlimited = 80 <:baitcoin:1190176226258731058>",
+            "inline": true
+          }
+        ],
+        "footer": {
+          "text": "note : 1 day license berlaku selama 1 day in real life"
+        },
+        "image": {
+          "url": "https://i.postimg.cc/5tzngVcP/licen-emerald.webp"
+        }
+      },
+      {
+        "color": 5793266,
+        "author": {
+          "name": "Jenis Jenis Ikan"
+        },
+        "image": {
+          "url": "https://i.postimg.cc/GmgvySHX/jenis-ikan-emerald.webp"
+        }
+      }
+    ],
+    "attachments": []
+  }

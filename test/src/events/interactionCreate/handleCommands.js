@@ -64,4 +64,11 @@ module.exports = async (client, interaction) => {
     } catch (error) {
         console.log(`error di command: ${error}`);
     }
+    if (interaction.isButton() && interaction.customId === "show_other_embed") {
+      try {
+      const otherEmbed = require("../../templateJson/emerald/infoTargetIkan.json");
+      interaction.update({ embeds: [otherEmbed] });
+    } catch (error) {
+      console.error(`error loading other embed: ${error}`);
+    }}
 };

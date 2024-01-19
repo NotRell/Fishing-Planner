@@ -1,0 +1,33 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Walleye",
+        "color": 5793266,
+        "fields": [
+          {
+            "name": "Common, Trophy",
+            "value": "The Walleye (Sander vitreus), also know as Pike Perch, is a freshwater food and game fish found in Europe and North America. Although Walleye have more elongated and slender bodies than Perches, they have the two dorsal fins characteristic of the family. They are, like perches, carnivorous, and as adults they feed mostly on other fish. Walleye grow up to 130 cm (52 in) in length and up to 20 kg (44 lbs) in weight."
+          },
+          {
+            "name": "preferred bait:",
+            "value": "- smalll minnows\n- leeches",
+            "inline": true
+          },
+          {
+            "name": "preferred lure:",
+            "value": "- worms\n- grubs\n- narrow spoons",
+            "inline": true
+          },
+          {
+            "name": "waktu mancing",
+            "value": "malam jam 21:00-05:00 (gelombang paling tinggi)"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1178890122515714089/1190293981360295996/Walleye.png?ex=65b3bba7&is=65a146a7&hm=44ccb04c364cbeba5963de97eb11fb4489f4ab67099a9e18c47e9ce8c18f833b&"
+        }
+      }
+    ],
+    "attachments": []
+  }

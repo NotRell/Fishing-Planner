@@ -1,0 +1,33 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "biaya yang di butuhkan",
+        "color": 5793266,
+        "fields": [
+          {
+            "name": "set up",
+            "value": "rod : ValueSpin 190\nreels : CrucianHunter 3000\nlines : Mono 0.2 mm\nlures : Barbless Narrow Spoon 7 g, #1/0",
+            "inline": true
+          },
+          {
+            "name": "harga",
+            "value": "1250 <:cash:1190172223173034046>\n3710 <:cash:1190172223173034046>\n140 <:cash:1190172223173034046>\n3 <:baitcoin:1190176226258731058>\n\n\n2000 <:cash:1190172223173034046>",
+            "inline": true
+          },
+          {
+            "name": "tools",
+            "value": "keepnet : FishHut L"
+          },
+          {
+            "name": "total",
+            "value": "7100 <:cash:1190172223173034046> +  3 <:baitcoin:1190176226258731058>"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/1178011953466191892/1190401080329252944/image.png?ex=65b41f66&is=65a1aa66&hm=a315d1bb7ccdeebd5490666ef1b9c88fccf3053f27d20572eb843ee7bdbe80b1&"
+        }
+      }
+    ],
+    "attachments": []
+  }

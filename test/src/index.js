@@ -1,5 +1,5 @@
 require("dotenv").config();
-const { Client, IntentsBitField } = require("discord.js");
+const { Client, IntentsBitField, ActivityType } = require("discord.js");
 const mongoose = require("mongoose");
 const eventHandler = require("./handlers/eventHandler");
 
@@ -20,9 +20,8 @@ const client = new Client({
 
   eventHandler(client);
   } catch (error) {
-    console.log(`Error: ${error}`)
+    console.log(`Error: ${error}`);
   }
 })();
-
 
 client.login(process.env.TOKEN);
